@@ -1,0 +1,9 @@
+cluster,n_tracks,top_genres,distinguishing_features
+0,23513,"salsa (3%), reggaeton (2%), latino (2%), latin (2%), reggae (2%)","valence=+0.9sd, danceability=+0.7sd, instrumentalness=-0.4sd"
+1,18224,"metalcore (3%), heavy-metal (3%), grunge (3%), metal (3%), dubstep (3%)","acousticness=-0.7sd, energy=+0.7sd, loudness=+0.6sd"
+2,17231,"honky-tonk (3%), tango (3%), romance (3%), jazz (3%), cantopop (3%)","acousticness=+1.1sd, energy=-1.1sd, loudness=-0.5sd"
+3,6675,"pagode (6%), sertanejo (6%), samba (5%), mpb (3%), gospel (3%)","liveness=+2.6sd, energy=+0.5sd, instrumentalness=-0.3sd"
+4,10439,"minimal-techno (7%), detroit-techno (6%), techno (5%), study (5%), grindcore (5%)","instrumentalness=+2.0sd, acousticness=-0.6sd, valence=-0.5sd"
+5,6039,"j-dance (8%), dancehall (6%), funk (4%), kids (4%), hip-hop (3%)","speechiness=+2.0sd, danceability=+0.8sd, instrumentalness=-0.4sd"
+6,6660,"new-age (11%), sleep (10%), classical (10%), ambient (9%), piano (7%)","loudness=-2.6sd, instrumentalness=+2.0sd, energy=-1.9sd"
+7,960,"comedy (83%), show-tunes (2%), kids (2%), children (2%), french (1%)","speechiness=+7.4sd, liveness=+2.6sd, acousticness=+1.4sd"
